@@ -1,0 +1,29 @@
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Web framework (uncomment if needed)
+# fastapi>=0.104.0
+# uvicorn>=0.24.0
+
+# Database (uncomment if needed)
+# sqlalchemy>=2.0.0
+# alembic>=1.12.0
+
+# Data processing (uncomment if needed)
+# pandas>=2.1.0
+# numpy>=1.25.0
+
+# Development dependencies
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.12.0
+black>=23.9.0
+flake8>=6.1.0
+isort>=5.12.0
+mypy>=1.6.0
+tox>=4.11.0
+
+# Jupyter (uncomment if needed)
+# jupyter>=1.0.0
+# ipykernel>=6.25.0
