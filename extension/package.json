@@ -1,0 +1,16 @@
+{
+  "name": "quick-search-serpapi",
+  "version": "1.0.0",
+  "description": "Firefox extension for quick text search via SerpAPI",
+  "scripts": {
+    "build": "web-ext build --source-dir=.",
+    "sign": "web-ext sign --source-dir=.",
+    "lint": "web-ext lint --source-dir=.",
+    "run": "web-ext run --source-dir=."
+  },
+  "author": "Vladimir Stojoc",
+  "license": "MIT",
+  "devDependencies": {
+    "web-ext": "^8.0.0"
+  }
+}

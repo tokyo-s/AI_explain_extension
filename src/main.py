@@ -12,8 +12,7 @@ load_dotenv()
 def main():
     """Main function to run the application."""
     print("Hello, World")
-    print(f"Debug mode: {os.getenv^('DEBUG', 'False'^)}")
-ECHO is off.
+    print(f"Debug mode: {os.getenv('DEBUG', 'False')}")
     # Add your application logic here
     pass
 
